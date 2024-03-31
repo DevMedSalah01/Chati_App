@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317386446887",
+    "project_id": "salah-chat-5554b",
+    "storage_bucket": "salah-chat-5554b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317386446887:android:3cf290b4939ad4c93b9602",
+        "android_client_info": {
+          "package_name": "com.example.salah_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317386446887-b7ble63qtqdgbmtec57g5eov5pt2p7uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4mFqIH1_Bh0MAUs-V7_hE5IUxL5O7egM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317386446887-b7ble63qtqdgbmtec57g5eov5pt2p7uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
